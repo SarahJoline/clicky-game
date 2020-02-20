@@ -1,6 +1,6 @@
 import React from "react";
 
-function Header(props) {
+function Header() {
   return (
     <div>
       <h3>Click the images to start</h3>

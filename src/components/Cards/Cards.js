@@ -5,7 +5,7 @@ function Cards(props) {
   return (
     <div className="card-container">
       <img
-        onClick={() => props.addToCounter()}
+        onClick={() => props.clickHandler()}
         src={props.image}
         alt={props.id}
       />

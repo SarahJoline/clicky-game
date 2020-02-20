@@ -2,7 +2,7 @@ import React, { Component } from "react";
 import Nav from "./components/Nav/Nav";
 import "./App.css";
 import characters from "./Characters.json";
-// import Header from "./components/Header/Header";
+import Header from "./components/Header/Header";
 import Cards from "./components/Cards/Cards";
 
 class App extends Component {
@@ -68,12 +68,10 @@ class App extends Component {
     return (
       <div className="App">
         <Nav counter={counter} highscore={highscore} />
-        {/* <Header /> */}
+        <Header />
         <div>
           <h1>{this.winMessage()}</h1>
         </div>
-        <div>{this.state.highscore}</div>
-        <div>{this.state.counter}</div>
         <div>
           {characters.map(({ id, image, clicked }) => (
             <Cards
