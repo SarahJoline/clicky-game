@@ -1,0 +1,11 @@
+.navigation {
+  display: flex;
+  justify-content: space-around;
+  height: 10vh;
+  background-color: blue;
+}
+
+.nav-title {
+  display: flex;
+  align-items: center;
+}

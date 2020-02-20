@@ -1,0 +1,10 @@
+.card-container {
+  margin: 50px;
+  display: inline-grid;
+  justify-content: center;
+}
+
+img {
+  height: 200px;
+  width: 200px;
+}

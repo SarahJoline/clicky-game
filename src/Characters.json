@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "image": "https://trendingnewsbuzz.com/wp-content/uploads/2019/12/20180917721396f619c56c8d1_th_1024x0-696x696.jpg",
+    "clicked": false
+  },
+  {
+    "id": 2,
+    "image": "https://data.whicdn.com/images/327256690/original.jpg",
+    "clicked": false
+  },
+  {
+    "id": 3,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVb7RN34yd9ZIOb-XDadIooGd5UCGHDsrC0yiC1LUYzInQJ9jSrQ&s",
+    "clicked": false
+  },
+  {
+    "id": 4,
+    "image": "https://i.pinimg.com/originals/ba/fb/9f/bafb9fd1f00a5f721f14330678672eef.jpg",
+    "clicked": false
+  },
+  {
+    "id": 5,
+    "image": "https://i.pinimg.com/originals/39/d6/22/39d62205ca86ecda0831b909fb3f0999.jpg",
+    "clicked": false
+  },
+  {
+    "id": 6,
+    "image": "https://pbs.twimg.com/profile_images/950802066599006208/epdBPzN8_400x400.jpg",
+    "clicked": false
+  },
+  {
+    "id": 7,
+    "image": "https://pbs.twimg.com/profile_images/904786054569377792/WeYM96ai_400x400.jpg",
+    "clicked": false
+  },
+  {
+    "id": 8,
+    "image": "https://miro.medium.com/max/524/1*nB_asEIRCdNcT0D0Q0smjw.png",
+    "clicked": false
+  },
+  {
+    "id": 9,
+    "image": "https://vignette.wikia.nocookie.net/bojackhorseman/images/e/eb/Pickles_the_Pug.png/revision/latest?cb=20180915203644",
+    "clicked": false
+  },
+  {
+    "id": 10,
+    "image": "https://pbs.twimg.com/media/CKcr_EKVAAUOw80.png",
+    "clicked": false
+  },
+  {
+    "id": 11,
+    "image": "https://statici.behindthevoiceactors.com/behindthevoiceactors/_img/chars/emily-bojack-horseman-9.58.jpg",
+    "clicked": false
+  },
+  {
+    "id": 12,
+    "image": "https://pm1.narvii.com/7255/1e6f98468b28100f85e8441a225d68dbbbb04c6ar1-690-690v2_hq.jpg",
+    "clicked": false
+  }
+]
